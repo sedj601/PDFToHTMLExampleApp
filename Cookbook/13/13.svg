@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 640 909" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_13{
+fill: #FFFFFF;
+}
+.g2_13{
+fill: none;
+stroke: #FDC011;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<image preserveAspectRatio="none" x="-1" y="475" width="4" height="436" xlink:href="img/1.png" />
+<path d="M629.2,39.3c0,12.1,-10.7,22,-23.9,22c-13.2,0,-23.9,-9.9,-23.9,-22c0,-12.1,10.7,-22,23.9,-22c13.2,0,23.9,9.9,23.9,22Z" class="g1_13" />
+<path d="M625.2,45.7c-0.4,2.8,-2.3,4.8,-4.2,4.5c-1.9,-0.3,-3.1,-2.8,-2.6,-5.5c0.4,-2.8,2.3,-4.8,4.1,-4.6c1.9,0.3,3.1,2.8,2.7,5.6Z" class="g1_13" />
+<image x="617" y="38" width="11" height="14" xlink:href="shade/1.png" />
+<path d="M591.6,34.9l5.1,0.5c0,0,-0.8,0.1,-1.1,0.5c-0.4,0.6,1.9,4.3,1.9,4.3Z" class="g1_13" />
+<image x="588" y="32" width="34" height="18" xlink:href="shade/2.png" />
+<image x="586" y="23" width="6" height="12" xlink:href="shade/3.png" />
+<image x="588" y="27" width="5" height="9" xlink:href="shade/4.png" />
+<path d="M619.2,35.8c-2.5,1.2,-7,2,-12,2c-4.8,0,-9.1,-0.8,-11.7,-1.9c-1.5,1.9,-2.4,4.3,-2.4,6.8c0,6.7,6.4,12.2,14.3,12.2c7.9,0,14.4,-5.5,14.4,-12.2c0,-2.6,-1,-5,-2.6,-6.9Z" class="g1_13" />
+<image x="591" y="34" width="32" height="23" xlink:href="shade/5.png" />
+<path d="M617.7,56.4l-21.2,0l0,-3.9l21.2,0l0,3.9Z" class="g1_13" />
+<image x="597" y="53" width="20" height="3" xlink:href="shade/6.png" />
+<image preserveAspectRatio="none" x="0" y="475" width="643" height="436" xlink:href="img/2.png" />
+<path d="M414.9,90.4l170.8,0" class="g2_13" />
+</svg>

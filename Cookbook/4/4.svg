@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 640 909" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_4{
+fill: #FFFFFF;
+}
+.g2_4{
+fill: none;
+stroke: #FDC011;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+]]></style>
+</defs>
+<image preserveAspectRatio="none" x="73" y="106" width="133" height="133" xlink:href="img/1.png" />
+<image x="85" y="110" width="117" height="117" xlink:href="shade/1.png" />
+<image preserveAspectRatio="none" x="87" y="111" width="116" height="115" xlink:href="img/2.png" />
+<image preserveAspectRatio="none" x="167" y="108" width="34" height="56" xlink:href="img/3.png" />
+<image preserveAspectRatio="none" x="167" y="103" width="59" height="59" xlink:href="img/4.png" />
+<image x="168" y="105" width="56" height="57" xlink:href="shade/2.png" />
+<path d="M197.8,157.5c14.3,0,25.9,-11.7,25.9,-26.3c0,-14.5,-11.6,-26.3,-25.9,-26.3c-14.4,0,-26,11.8,-26,26.3c0,14.6,11.6,26.3,26,26.3Z" class="g1_4" />
+<image x="176" y="125" width="44" height="17" xlink:href="shade/3.png" />
+<image x="196" y="127" width="10" height="4" xlink:href="shade/4.png" />
+<image x="193" y="130" width="7" height="4" xlink:href="shade/5.png" />
+<image x="184" y="127" width="7" height="7" xlink:href="shade/6.png" />
+<image x="205" y="128" width="7" height="5" xlink:href="shade/7.png" />
+<image preserveAspectRatio="none" x="73" y="699" width="133" height="133" xlink:href="img/5.png" />
+<image x="85" y="703" width="117" height="117" xlink:href="shade/8.png" />
+<image preserveAspectRatio="none" x="87" y="703" width="116" height="114" xlink:href="img/6.png" />
+<image x="190" y="694" width="39" height="41" xlink:href="shade/9.png" />
+<image preserveAspectRatio="none" x="167" y="701" width="34" height="56" xlink:href="img/7.png" />
+<image preserveAspectRatio="none" x="167" y="696" width="59" height="59" xlink:href="img/8.png" />
+<image preserveAspectRatio="none" x="167" y="707" width="8" height="25" xlink:href="img/9.png" />
+<image x="168" y="697" width="56" height="57" xlink:href="shade/10.png" />
+<path d="M197.8,750.3c14.3,0,25.9,-11.8,25.9,-26.3c0,-14.5,-11.6,-26.3,-25.9,-26.3c-14.4,0,-26,11.8,-26,26.3c0,14.5,11.6,26.3,26,26.3Z" class="g1_4" />
+<image x="176" y="707" width="47" height="27" xlink:href="shade/11.png" />
+<image x="192" y="712" width="17" height="9" xlink:href="shade/12.png" />
+<image preserveAspectRatio="none" x="73" y="295" width="133" height="133" xlink:href="img/10.png" />
+<image x="85" y="300" width="117" height="118" xlink:href="shade/13.png" />
+<image preserveAspectRatio="none" x="87" y="301" width="116" height="115" xlink:href="img/11.png" />
+<image preserveAspectRatio="none" x="167" y="298" width="34" height="56" xlink:href="img/12.png" />
+<image preserveAspectRatio="none" x="167" y="293" width="59" height="59" xlink:href="img/13.png" />
+<image x="168" y="294" width="56" height="56" xlink:href="shade/14.png" />
+<path d="M197.8,347.4c14.3,0,25.9,-11.8,25.9,-26.3c0,-14.5,-11.6,-26.3,-25.9,-26.3c-14.4,0,-26,11.8,-26,26.3c0,14.5,11.6,26.3,26,26.3Z" class="g1_4" />
+<image x="181" y="326" width="34" height="11" xlink:href="shade/15.png" />
+<image x="181" y="326" width="34" height="8" xlink:href="shade/16.png" />
+<path d="M330.2,91.7l180.8,0" class="g2_4" />
+<image x="198" y="311" width="27" height="20" xlink:href="shade/17.png" />
+<path d="M196.4,330.7l14.7,0l0,-4.7l-14.7,0l0,4.7Z" class="g1_4" />
+<image x="192" y="308" width="7" height="17" xlink:href="shade/18.png" />
+<image x="193" y="316" width="9" height="11" xlink:href="shade/19.png" />
+<image preserveAspectRatio="none" x="344" y="188" width="133" height="135" xlink:href="img/14.png" />
+<image x="356" y="193" width="117" height="118" xlink:href="shade/20.png" />
+<image preserveAspectRatio="none" x="357" y="194" width="116" height="116" xlink:href="img/15.png" />
+<image preserveAspectRatio="none" x="437" y="191" width="35" height="56" xlink:href="img/16.png" />
+<image preserveAspectRatio="none" x="438" y="186" width="59" height="60" xlink:href="img/17.png" />
+<image x="439" y="188" width="57" height="57" xlink:href="shade/21.png" />
+<path d="M468.4,240.9c14.4,0,26,-11.8,26,-26.3c0,-14.5,-11.6,-26.3,-26,-26.3c-14.3,0,-25.9,11.8,-25.9,26.3c0,14.5,11.6,26.3,25.9,26.3Z" class="g1_4" />
+<image x="465" y="208" width="6" height="15" xlink:href="shade/22.png" />
+<image x="456" y="208" width="6" height="5" xlink:href="shade/23.png" />
+<image x="448" y="199" width="44" height="29" xlink:href="shade/24.png" />
+<image preserveAspectRatio="none" x="344" y="401" width="133" height="133" xlink:href="img/18.png" />
+<image x="356" y="405" width="117" height="118" xlink:href="shade/25.png" />
+<image preserveAspectRatio="none" x="358" y="406" width="116" height="115" xlink:href="img/19.png" />
+<image x="461" y="396" width="39" height="41" xlink:href="shade/26.png" />
+<image preserveAspectRatio="none" x="437" y="403" width="35" height="56" xlink:href="img/20.png" />
+<image preserveAspectRatio="none" x="438" y="398" width="59" height="59" xlink:href="img/21.png" />
+<image preserveAspectRatio="none" x="438" y="410" width="8" height="25" xlink:href="img/22.png" />
+<image x="439" y="400" width="57" height="56" xlink:href="shade/27.png" />
+<path d="M468.4,452.6c14.4,0,26,-11.8,26,-26.3c0,-14.6,-11.6,-26.3,-26,-26.3c-14.3,0,-25.9,11.7,-25.9,26.3c0,14.5,11.6,26.3,25.9,26.3Z" class="g1_4" />
+<image x="448" y="421" width="45" height="18" xlink:href="shade/28.png" />
+<image x="448" y="406" width="37" height="31" xlink:href="shade/29.png" />
+<image preserveAspectRatio="none" x="73" y="506" width="133" height="133" xlink:href="img/23.png" />
+<image x="85" y="510" width="117" height="118" xlink:href="shade/30.png" />
+<image preserveAspectRatio="none" x="87" y="511" width="116" height="116" xlink:href="img/24.png" />
+<image preserveAspectRatio="none" x="167" y="508" width="34" height="56" xlink:href="img/25.png" />
+<image preserveAspectRatio="none" x="167" y="503" width="59" height="60" xlink:href="img/26.png" />
+<image x="168" y="505" width="56" height="56" xlink:href="shade/31.png" />
+<path d="M197.8,558.1c14.3,0,25.9,-11.8,25.9,-26.3c0,-14.5,-11.6,-26.3,-25.9,-26.3c-14.4,0,-26,11.8,-26,26.3c0,14.5,11.6,26.3,26,26.3Z" class="g1_4" />
+<image x="185" y="531" width="26" height="7" xlink:href="shade/32.png" />
+<image x="185" y="514" width="24" height="19" xlink:href="shade/33.png" />
+<image x="181" y="537" width="34" height="11" xlink:href="shade/34.png" />
+<image x="181" y="537" width="34" height="8" xlink:href="shade/35.png" />
+<image x="181" y="326" width="34" height="11" xlink:href="shade/36.png" />
+<image x="181" y="326" width="34" height="8" xlink:href="shade/37.png" />
+<image preserveAspectRatio="none" x="344" y="627" width="133" height="133" xlink:href="img/27.png" />
+<image x="356" y="631" width="117" height="117" xlink:href="shade/38.png" />
+<image preserveAspectRatio="none" x="358" y="631" width="116" height="116" xlink:href="img/28.png" />
+<image x="461" y="622" width="38" height="40" xlink:href="shade/39.png" />
+<image preserveAspectRatio="none" x="437" y="628" width="35" height="57" xlink:href="img/29.png" />
+<image preserveAspectRatio="none" x="438" y="623" width="59" height="60" xlink:href="img/30.png" />
+<image preserveAspectRatio="none" x="438" y="635" width="8" height="25" xlink:href="img/31.png" />
+<image x="439" y="625" width="56" height="56" xlink:href="shade/40.png" />
+<path d="M468.4,678.2c14.4,0,26,-11.8,26,-26.3c0,-14.5,-11.6,-26.3,-26,-26.3c-14.3,0,-25.9,11.8,-25.9,26.3c0,14.5,11.6,26.3,25.9,26.3Z" class="g1_4" />
+<path d="M491.1,652.8c0,12.1,-10.7,21.9,-23.9,21.9c-13.2,0,-24,-9.8,-24,-21.9c0,-12.2,10.8,-22,24,-22c13.2,0,23.9,9.8,23.9,22Z" class="g1_4" />
+<path d="M487,659.1c-0.4,2.8,-2.3,4.8,-4.1,4.5c-1.9,-0.2,-3.1,-2.7,-2.7,-5.5c0.4,-2.8,2.3,-4.8,4.2,-4.5c1.9,0.3,3.1,2.8,2.6,5.5Z" class="g1_4" />
+<image x="479" y="652" width="11" height="13" xlink:href="shade/41.png" />
+<path d="M453.4,648.3l5.2,0.5c0,0,-0.9,0.2,-1.1,0.5c-0.5,0.7,1.8,4.3,1.8,4.3Z" class="g1_4" />
+<image x="450" y="646" width="35" height="18" xlink:href="shade/42.png" />
+<image x="448" y="637" width="6" height="10" xlink:href="shade/43.png" />
+<image x="450" y="641" width="6" height="7" xlink:href="shade/44.png" />
+<path d="M481.1,649.2c-2.6,1.2,-7,2,-12,2c-4.9,0,-9.1,-0.7,-11.7,-1.9c-1.5,2,-2.4,4.3,-2.4,6.8c0,6.8,6.4,12.2,14.3,12.2c7.9,0,14.3,-5.4,14.3,-12.2c0,-2.5,-0.9,-4.9,-2.5,-6.9Z" class="g1_4" />
+<image x="453" y="648" width="31" height="22" xlink:href="shade/45.png" />
+<path d="M479.5,669.9l-21.2,0l0,-3.9l21.2,0l0,3.9Z" class="g1_4" />
+<image x="459" y="667" width="20" height="3" xlink:href="shade/46.png" />
+</svg>

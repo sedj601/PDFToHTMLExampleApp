@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":16,"title":"","author":"","fileName":"Cookbook.pdf","bounds":[[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909],[640,909]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
